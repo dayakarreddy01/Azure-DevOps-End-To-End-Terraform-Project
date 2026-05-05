@@ -50,4 +50,3 @@ stages:
       backendKey: "$(backendKey)"
       azureServiceConnection: "$(azureServiceConnection)"
       approvalEmail: "$(approvalEmail)"
-``
