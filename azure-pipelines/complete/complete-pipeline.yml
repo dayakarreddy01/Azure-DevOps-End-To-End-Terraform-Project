@@ -5,6 +5,8 @@ trigger:
 
 pool:
   name: "Default"
+  vmImage: 'windows-latest'
+  
 
 variables:
   backendKey: "terraform.tfstate"
