@@ -8,7 +8,7 @@ pool:
 
 variables:
   backendKey: "terraform.tfstate"
-  azureServiceConnection: "azurerm"
+  azureServiceConnection: "terraform_consumpetion_logicapp1"
   approvalEmail: "v-alereddy@micorosoft.com"
 
 stages:
