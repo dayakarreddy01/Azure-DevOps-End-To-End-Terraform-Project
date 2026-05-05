@@ -9,7 +9,7 @@ pool:
 variables:
   backendKey: "terraform.tfstate"
   azureServiceConnection: "azurerm"
-  approvalEmail: "anapedrabcnt@gmail.com"
+  approvalEmail: "v-alereddy@micorosoft.com"
 
 stages:
   # Dev Stage
