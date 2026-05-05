@@ -3,7 +3,7 @@ pool:
 
 variables:
   terraformVersion: '1.5.5'  # Specify the Terraform version
-  azureServiceConnection: 'azurerm'  # Azure service connection name
+  azureServiceConnection: 'terraform_consumpetion_logicapp1'  # Azure service connection name
   backendResourceGroup: 'skink-rg'
   backendStorageAccount: 'skinktfstate'  # Remote backend storage account
   backendContainer: 'tfstate'  # Remote backend storage container
